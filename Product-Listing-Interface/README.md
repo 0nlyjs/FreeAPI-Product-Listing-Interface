@@ -24,15 +24,11 @@ This project is a modern, responsive product listing web interface built using R
 
 ## Getting Started
 
-1. Navigate to the project directory:
-   \`\`\`bash
-   cd Product-Listing-Interface
-   \`\`\`
-2. Install the dependencies:
+1. Install the dependencies:
    \`\`\`bash
    npm install
    \`\`\`
-3. Start the development server:
+2. Start the development server:
    \`\`\`bash
    npm run dev
    \`\`\`
