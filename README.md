@@ -37,4 +37,4 @@ This project is a modern, responsive product listing web interface built using R
    npm run dev
    \`\`\`
 
-Open your browser and visit `http://localhost:5173/` to view the application locally.
+Open your browser and visit `http://localhost:5173/` to view the application locally
